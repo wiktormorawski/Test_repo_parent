@@ -1,6 +1,3 @@
-[submodule "Test_repo_submodule"]
-	path = Test_repo_submodule
-	url = https://github.com/wiktormorawski/Test_repo_submodule.git
 [submodule "app/src/Test_repo_submodule"]
 	path = app/src/Test_repo_submodule
 	url = https://github.com/wiktormorawski/Test_repo_submodule.git
